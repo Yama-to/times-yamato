@@ -5,8 +5,9 @@
 #  1. 該当MDファイル冒頭にYAML Front Matter追加   #
 #  2. ターミナルでjekyll build                   #
 #  3. できたHTMLの ($\n\s*<) を (<) に置換        #
-#  4. controllerに新しいアクション追加             #
-#  5. routingに新しいURLを追加                    #
+#  4. pages_controllerに新しいアクション追加       #
+#  5. routes.rbに新しいURLを追加                  #
+#  6. コミット後Herokuにデプロイ                   #
 #                                               #
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
 

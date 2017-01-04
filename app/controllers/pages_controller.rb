@@ -1,6 +1,8 @@
 class PagesController < ApplicationController
   def kickoff2017
   end
-  def shin_trainers
+  def shinTrainers
+  end
+  def motivationLeader
   end
 end
