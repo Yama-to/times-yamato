@@ -31,6 +31,7 @@ gem 'spring',        group: :development
 
 gem 'puma'
 gem 'meta-tags'
+gem 'jekyll'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development

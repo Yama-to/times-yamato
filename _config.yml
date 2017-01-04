@@ -1,0 +1,2 @@
+source:      ../markdowns/
+destination: ./app/views/pages/
