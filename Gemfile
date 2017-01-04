@@ -30,6 +30,7 @@ gem 'spring',        group: :development
 # gem 'bcrypt', '~> 3.1.7'
 
 gem 'puma'
+gem 'meta-tags'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
