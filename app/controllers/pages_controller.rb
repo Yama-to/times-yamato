@@ -5,4 +5,6 @@ class PagesController < ApplicationController
   end
   def motivationLeader
   end
+  def newSystem201701
+  end
 end
