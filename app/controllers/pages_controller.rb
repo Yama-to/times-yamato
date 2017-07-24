@@ -7,4 +7,6 @@ class PagesController < ApplicationController
   end
   def newSystem201701
   end
+  def orgMngment2017Final
+  end
 end
